@@ -36,3 +36,9 @@
 Icon?
 ehthumbs.db
 Thumbs.db
+
+# Program specific files #
+##########################
+
+client
+server
