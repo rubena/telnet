@@ -9,6 +9,9 @@
 #include <errno.h>
 #include <stdlib.h>
 #include <string.h>
+
+#include <signal.h>
+
 #define PORT 5555
 #define MAX_MSG_LENGTH 1024
 #define END_STRING "chau\n"
